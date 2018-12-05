@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## About Media-app
 
-Media-app is a simple app which provides displaying the top 10 rated TV shows and top 10 movies, a search function fro both and a detail view for individual items.
+Media-app is a simple app which provides displaying the top 10 rated TV shows and top 10 movies, a search function for both and a detail view for individual items.
 Media-app uses TheMovieDB API to enable this functionality.
 
 ## Development server
