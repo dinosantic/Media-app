@@ -1,17 +1,17 @@
 # Media-app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
+First run `ng install` to install dependencies.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/` or run `ng serve --o` and app will automaticlly open in `http://localhost:4200/`.
+The app will automatically reload if you change any of the source files.
 
 ## About Media-app
 
 Media-app is a simple app which provides displaying the top 10 rated TV shows and top 10 movies, a search function for both and a detail view for individual items.
 Media-app uses TheMovieDB API to enable this functionality.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/` or run `ng serve --o` and app will automaticlly open in `http://localhost:4200/`.
-
-The app will automatically reload if you change any of the source files.
 
 ## Build
 
